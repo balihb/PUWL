@@ -2,6 +2,8 @@
 
 This repository contains the full text of **PUWL v1.0** in the file [LICENSE](LICENSE).
 
+> I give it away, but PLZ don't bother me!
+
 ## License
 
 The PUWL text itself is released under **PUWL v1.0**.
